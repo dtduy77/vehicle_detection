@@ -1,5 +1,5 @@
 # Project Name
-🌟Image Object Detection🌟
+🌟Vehicle Detection🌟
 
 ## Description
 This is a FastAPI-based web service that accepts an image upload and performs object detection on the image using a pre-trained model Yolov5m. It returns the annotated image with the detected objects.
